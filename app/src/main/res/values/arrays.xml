@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="instansi">
+        <item>Choose Agency Type</item>
+        <item>Individual</item>
+        <item>Company</item>
+    </string-array>
+    <string-array name="user_type">
+        <item>Choose User Type</item>
+        <item>Individual</item>
+        <item>Contractor/Architect</item>
+    </string-array>
+</resources>
